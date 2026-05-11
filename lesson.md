@@ -131,6 +131,7 @@ streamlit run app.py
 ```
 
 Your browser will open automatically at `http://localhost:8501`
+Check Terminal: if ask for Email: ,, just enter to skip
 
 `st.title()` displays a large heading. `st.write()` is a general-purpose function that can display text, dataframes, charts, and more. We'll explore more display and input components next.
 
