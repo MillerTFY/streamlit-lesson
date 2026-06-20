@@ -124,7 +124,7 @@ st.title("Hello, Streamlit!")
 st.write("This is my first Streamlit app.")
 ```
 
-**Run it:**
+**Run it: (Run in the terminal)**
 
 ```bash
 streamlit run app.py
